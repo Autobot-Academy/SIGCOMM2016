@@ -1,6 +1,6 @@
-#  ACM SIGCOMM 2016 Web Site
+#  ACM SIGCOMM 2016 Website
 
-This repository contains code and data for the ACM SIGCOMM 2016 web site.
+This repository contains code and data for the ACM SIGCOMM 2016 website.
 
 
 ## License
